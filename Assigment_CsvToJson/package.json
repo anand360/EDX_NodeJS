@@ -1,0 +1,17 @@
+{
+  "name": "Assigment_CsvToJson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CsvToJsonConverter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "1.1.9",
+    "request": "2.83.0",
+    "uuid": "3.1.0"
+  }
+}
