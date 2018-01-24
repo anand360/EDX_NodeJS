@@ -1,1 +1,1 @@
-This is Migration project of cusomter and customer address data into MongoDB.
+This is Migration project of customer and customer address data into MongoDB.
